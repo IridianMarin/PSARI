@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2013\Projects\Sari-v1.1\Sari-v1.1\bin\Sari-v1.1.dll.config
+c:\users\daniel\documents\visual studio 2013\Projects\Sari-v1.1\Sari-v1.1\bin\Sari-v1.1.dll
+c:\users\daniel\documents\visual studio 2013\Projects\Sari-v1.1\Sari-v1.1\bin\Sari-v1.1.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\Sari-v1.1\Sari-v1.1\obj\Debug\Sari-v1.1.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2013\Projects\Sari-v1.1\Sari-v1.1\obj\Debug\Sari-v1.1.dll
+c:\users\daniel\documents\visual studio 2013\Projects\Sari-v1.1\Sari-v1.1\obj\Debug\Sari-v1.1.pdb
+C:\Users\Viridiana\Downloads\Sari-v1.1\Sari-v1.1\Sari-v1.1\bin\Sari-v1.1.dll.config
+C:\Users\Viridiana\Downloads\Sari-v1.1\Sari-v1.1\Sari-v1.1\bin\Sari-v1.1.dll
+C:\Users\Viridiana\Downloads\Sari-v1.1\Sari-v1.1\Sari-v1.1\bin\Sari-v1.1.pdb
+C:\Users\Viridiana\Downloads\Sari-v1.1\Sari-v1.1\Sari-v1.1\obj\Debug\Sari-v1.1.dll
+C:\Users\Viridiana\Downloads\Sari-v1.1\Sari-v1.1\Sari-v1.1\obj\Debug\Sari-v1.1.pdb
+C:\Users\Viridiana\Downloads\Sari-v1.1\Sari-v1.1\Sari-v1.1\obj\Debug\Sari-v1.1.csprojResolveAssemblyReference.cache

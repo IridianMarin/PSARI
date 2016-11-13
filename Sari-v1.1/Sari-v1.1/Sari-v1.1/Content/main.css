@@ -1,0 +1,86 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+	font-family: 'Open Sans', 'sans serif';
+	background: #d1d1d1;
+}
+.navbar-nav>li>.dropdown-menu{
+	margin-top: 20px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+.mega-dropdown{
+	position: static !important;
+	width: 100%;
+}
+.mega-dropdown-menu{
+	padding: 20px 20px;
+	width:100%;
+	box-shadow: none;
+	webkit-box-shadow:none;
+}
+#mislider{
+	height: 260px !important;
+}
+img{
+	height: 400px !important;
+	width: 100%!important;
+	margin: auto;
+}
+.btn-devcode{
+	background:#33b5e5;
+	margin-top: 50px;
+	font-size: 30px;
+	color: white;
+	border-radius: 0;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 10px;
+}
+.app-justificar,h3, h1{
+	text-align: center;
+}
+
+.mega-dropdown-menu:before{
+	margin-left: -110px;
+	border-bottom: 15px solid #fff;
+	border-left: 17px solid transparent;
+	border-right: 17px solid transparent;
+	position: absolute;
+	top: -15px;
+	left:239px;
+	z-index: 10;
+}
+.mega-dropdown-menu:after{
+	margin-left: -110px;
+	border-bottom: 17px solid #fff;
+	border-left: 19px solid transparent;
+	border-right: 19px solid transparent;
+	position: absolute;
+	top: -17px;
+	left:237px;
+	z-index: 8;
+}
+.c{
+	width: 83%!important;
+	margin: auto;
+}
+
+--------------Footer----------------------
+#wrap{
+	min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    /* Negative indent footer by it's height */
+    margin: 0 auto -30px;
+}
+#push,#footer{
+	height: 20px !important;
+}
+div.page-header{
+	padding-top: 35px !important;
+	margin: 10px 0 -10px !important;	
+}
